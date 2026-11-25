@@ -1,0 +1,38 @@
+{
+  "updatedAt": "2026-11-25T15:34:00+06:00",
+  "currency": "BDT",
+  "transactions": [
+    {
+      "id": "TXN_1793260800001",
+      "partner": "Minister hi tech park (DEAL002905)",
+      "type": "Bill",
+      "amount": 500000.0,
+      "description": "Initial Invoice / Bill",
+      "date": "2026-11-01"
+    },
+    {
+      "id": "TXN_1793260800002",
+      "partner": "Minister hi tech park (DEAL002905)",
+      "type": "Credit",
+      "amount": 200000.0,
+      "description": "Payment Received",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "TXN_1793260800003",
+      "partner": "BUTTERFLY MARKETING LIMITED (3000002272)",
+      "type": "Bill",
+      "amount": 1200000.0,
+      "description": "Batch Purchase Order",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "TXN_1793260800004",
+      "partner": "BUTTERFLY MARKETING LIMITED (3000002272)",
+      "type": "Credit",
+      "amount": 1000000.0,
+      "description": "Cheque Payment",
+      "date": "2026-11-20"
+    }
+  ]
+}
